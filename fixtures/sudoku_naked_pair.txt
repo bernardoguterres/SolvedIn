@@ -1,0 +1,8 @@
+# Generated (solvedin sudoku generate --seed 131 --remove 30). Singles stall; a naked pair in row 2 finishes it without guessing.
+6
+. . 6 . . .
+. 1 . . . 2
+. . . . . .
+. . . . 1 4
+. 4 2 . . 6
+5 . . . 4 .

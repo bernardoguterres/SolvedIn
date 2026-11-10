@@ -1,0 +1,45 @@
+# Editable Pinpoint Category Lexicon
+# Format:
+# CATEGORY: <name>
+# TERMS: <comma-separated words or phrases>
+# DESCRIPTION: <optional description>
+
+CATEGORY: Computer Storage Drives
+TERMS: FLOPPY, HARD, COMPACT, FLASH, SOLID STATE, ZIP, THUMB, USB, OPTICAL, CLOUD
+DESCRIPTION: Types of computer storage media and drives
+
+CATEGORY: Types of Necklines
+TERMS: PULL, CREW, TURTLE, V, BOAT, COWL, SCOOP, HALTER, SWEETHEART, POLO
+DESCRIPTION: Styles and cuts of shirt and sweater necklines
+
+CATEGORY: Citrus Fruits
+TERMS: LEMON, LIME, ORANGE, GRAPEFRUIT, TANGERINE, CLEMENTINE, CITRON, POMELO
+DESCRIPTION: Edible fruits of the genus Citrus
+
+CATEGORY: String Instruments
+TERMS: GUITAR, VIOLIN, CELLO, HARP, BANJO, UKULELE, PIANO, LUTE, BASS, MANDOLIN
+DESCRIPTION: Musical instruments that produce sound from vibrating strings
+
+CATEGORY: Card Suits
+TERMS: HEARTS, HEART, DIAMONDS, DIAMOND, CLUBS, CLUB, SPADES, SPADE
+DESCRIPTION: Suits in a standard 52-card French-suited deck
+
+CATEGORY: Precious Gemstones
+TERMS: DIAMOND, RUBY, SAPPHIRE, EMERALD, OPAL, TOPAZ, AMETHYST, PEARL, JADE
+DESCRIPTION: Highly prized minerals and organic gemstones
+
+CATEGORY: Chess Pieces
+TERMS: KING, QUEEN, ROOK, BISHOP, KNIGHT, PAWN
+DESCRIPTION: Pieces used in the game of chess
+
+CATEGORY: Planetary Bodies
+TERMS: MERCURY, VENUS, EARTH, MARS, JUPITER, SATURN, URANUS, NEPTUNE, PLUTO
+DESCRIPTION: Major planets and dwarf planets of the Solar System
+
+CATEGORY: Coffee Drinks
+TERMS: ESPRESSO, LATTE, CAPPUCCINO, AMERICANO, MOCHA, MACCHIATO, FLAT WHITE
+DESCRIPTION: Popular espresso and brewed coffee preparations
+
+CATEGORY: Winter Olympic Sports
+TERMS: SKIING, SNOWBOARDING, CURLING, BIATHLON, BOBSLED, LUGE, ICE HOCKEY, FIGURE SKATING
+DESCRIPTION: Sports contested at the Olympic Winter Games

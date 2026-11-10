@@ -1,0 +1,9 @@
+# 6x6 Patches puzzle exercising squares, tall, wide, freeform, and partial clues
+6 6
+GRID
+4S  .  6W   .   .  4T
+ .  .   .   .   .   .
+4F  .   .   4   .   .
+ .  .   ?   .   .   .
+4S  .   T  6W   .   .
+ .  .   .   .   .   .

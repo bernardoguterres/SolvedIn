@@ -1,0 +1,7 @@
+# 3x3 Wend puzzle with multiple valid covers (horizontal and vertical word square)
+3 3
+GRID
+C A T
+A P E
+T E N
+LENGTHS: 3 3 3

@@ -1,0 +1,22 @@
+# Contradictory Tango: edge clue '=' between given 'S' and given 'M'
+6
+GRID
+S M . . . .
+. . . . . .
+. . . . . .
+. . . . . .
+. . . . . .
+. . . . . .
+HORIZONTAL
+= . . . .
+. . . . .
+. . . . .
+. . . . .
+. . . . .
+. . . . .
+VERTICAL
+. . . . . .
+. . . . . .
+. . . . . .
+. . . . . .
+. . . . . .

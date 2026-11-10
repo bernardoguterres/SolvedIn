@@ -1,0 +1,7 @@
+4 4
+GRID
+C O D E
+W A R D
+B O O K
+F I S H
+LENGTHS: 4 4 4 4

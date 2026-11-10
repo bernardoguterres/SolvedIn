@@ -1,0 +1,7 @@
+4 4
+GRID
+C O L D
+C A R D
+B E A R
+T R E E
+LENGTHS: 4 4 4 4

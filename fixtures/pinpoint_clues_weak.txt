@@ -1,0 +1,6 @@
+# Pinpoint clues with weak / unknown evidence (out-of-lexicon categories)
+CLUES:
+SPACESHIP
+QUANTUM
+SUBMARINE
+TELEPORTATION

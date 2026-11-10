@@ -1,0 +1,7 @@
+4 4
+GRID
+B L U E
+C O D E
+W A R D
+F I S H
+LENGTHS: 4 4 4 4

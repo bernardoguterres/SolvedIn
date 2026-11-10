@@ -1,0 +1,6 @@
+3 3
+GRID
+S U N
+R E D
+B O X
+LENGTHS: 3 3 3

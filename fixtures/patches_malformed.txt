@@ -1,0 +1,6 @@
+# Malformed Patches puzzle: invalid shape character 'Z'
+3 3
+GRID
+4Z  .  .
+ .  .  .
+ .  .  .

@@ -1,0 +1,8 @@
+# 4-letter Crossclimb puzzle with a unique ladder
+WORD_LENGTH: 4
+START: COLD
+RUNGS:
+CARD
+WARD
+CORD
+END: WARN

@@ -1,0 +1,22 @@
+# Malformed Tango: grid has only 5 cells on first row
+6
+GRID
+S M . . .
+. . . . . .
+. . . . . .
+. . . . . .
+. . . . . .
+. . . . . .
+HORIZONTAL
+. . . . .
+. . . . .
+. . . . .
+. . . . .
+. . . . .
+. . . . .
+VERTICAL
+. . . . . .
+. . . . . .
+. . . . . .
+. . . . . .
+. . . . . .

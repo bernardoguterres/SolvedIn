@@ -1,0 +1,22 @@
+# 6x6 Tango with the horizontal clue at row 3 col 1 removed/ignored (produces different solutions)
+6
+GRID
+S . . M . S
+M . . S . M
+S . . . . .
+. . . . S .
+S M S . . .
+. . . . S M
+HORIZONTAL
+. . . . .
+. . . . .
+. . . . .
+. . . . .
+. . . . .
+. x . . .
+VERTICAL
+. . . . . .
+. . . . x .
+. . . . . .
+. . . = x .
+. . . . . .

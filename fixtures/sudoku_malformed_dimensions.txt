@@ -1,0 +1,8 @@
+# 6x6 Mini Sudoku with malformed row (only 5 cells in row 1)
+6
+. 2 3 . .
+4 5 . . . .
+. 3 . 5 . 4
+5 . . . . 1
+. . . . . 5
+. . . 3 1 .

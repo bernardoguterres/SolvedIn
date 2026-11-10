@@ -1,0 +1,8 @@
+# 6x6 Mini Sudoku with contradictory givens (duplicate 1 in Row 1)
+6
+1 1 3 . . .
+4 5 . . . .
+. 3 . 5 . 4
+5 . . . . 1
+. . . . . 5
+. . . 3 1 .

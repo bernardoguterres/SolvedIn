@@ -1,0 +1,7 @@
+# Unsolvable Crossclimb puzzle: rungs cannot connect START to END
+WORD_LENGTH: 4
+START: COLD
+RUNGS:
+FIRE
+WIRE
+END: FISH

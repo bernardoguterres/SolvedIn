@@ -1,0 +1,5 @@
+# 2x3 Patches puzzle with contradictory clues (total size 8 > 6 board cells)
+2 3
+GRID
+4S  .   .
+ .  .  4S

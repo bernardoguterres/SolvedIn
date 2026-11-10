@@ -1,0 +1,7 @@
+# 4-letter Crossclimb puzzle with multiple valid ladders (diamond structure)
+WORD_LENGTH: 4
+START: COLD
+RUNGS:
+GOLD
+HOLD
+END: BOLD

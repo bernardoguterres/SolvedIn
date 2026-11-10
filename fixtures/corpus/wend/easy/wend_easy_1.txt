@@ -1,0 +1,6 @@
+3 3
+GRID
+F O R
+V A N
+P I G
+LENGTHS: 3 3 3

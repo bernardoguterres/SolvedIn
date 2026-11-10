@@ -1,0 +1,22 @@
+# 6x6 Tango with valid unique solution
+6
+GRID
+S . . M . S
+M . . S . M
+S . . . . .
+. . . . S .
+S M S . . .
+. . . . S M
+HORIZONTAL
+. . . . .
+. . . . .
+. . . . .
+. = . . .
+. . . . .
+. x . . .
+VERTICAL
+. . . . . .
+. . . . x .
+. . . . . .
+. . . = x .
+. . . . . .

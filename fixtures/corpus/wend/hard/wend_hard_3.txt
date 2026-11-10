@@ -1,0 +1,7 @@
+4 4
+GRID
+T R E E
+L I O N
+B I R D
+F O O D
+LENGTHS: 4 4 4 4

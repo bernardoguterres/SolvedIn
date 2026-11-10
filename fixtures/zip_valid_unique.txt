@@ -1,0 +1,11 @@
+# 4x4 Zip puzzle with walls and checkpoints (Unique Solution)
+4 4
+GRID
+1 . . 2
+. . . .
+3 . . .
+5 . . 4
+WALLS_H
+- - - .
+. - - -
+- - - .

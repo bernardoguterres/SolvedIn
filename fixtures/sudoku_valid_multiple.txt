@@ -1,0 +1,8 @@
+# 6x6 Mini Sudoku with multiple solutions
+6
+1 . . . . .
+. . . . . .
+. . . . . .
+. . . . . .
+. . . . . .
+. . . . . 2

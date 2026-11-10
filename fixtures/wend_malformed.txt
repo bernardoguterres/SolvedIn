@@ -1,0 +1,7 @@
+# Malformed Wend puzzle: sum of lengths (8) does not equal 3x3=9 cells
+3 3
+GRID
+C A T
+D O G
+P I N
+LENGTHS: 4 4

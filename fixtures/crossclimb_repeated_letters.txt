@@ -1,0 +1,9 @@
+# 4-letter Crossclimb puzzle where all words contain repeated letters ('EE')
+WORD_LENGTH: 4
+START: MEET
+RUNGS:
+SEEK
+FEED
+FEET
+SEED
+END: SEEN

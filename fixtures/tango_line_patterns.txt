@@ -1,0 +1,23 @@
+# Row 0 is S ? ? ? ? S. Only two arrangements are legal (SMSMMS, SMMSMS), so positions 1 and 4 must be moons:
+# a sun at either would leave three moons in a row. `solvedin tango hint` finds this with the line-pattern rule.
+6
+GRID
+S . . . . S
+. . . . . .
+. . . . . .
+. . . . . .
+. . . . . .
+. . . . . .
+HORIZONTAL
+. . . . .
+. . . . .
+. . . . .
+. . . . .
+. . . . .
+. . . . .
+VERTICAL
+. . . . . .
+. . . . . .
+. . . . . .
+. . . . . .
+. . . . . .

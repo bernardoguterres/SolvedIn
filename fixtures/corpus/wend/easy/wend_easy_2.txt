@@ -1,0 +1,6 @@
+3 3
+GRID
+C A T
+D O G
+P I N
+LENGTHS: 3 3 3

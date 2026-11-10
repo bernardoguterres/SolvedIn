@@ -1,0 +1,8 @@
+# Generated (solvedin sudoku generate --seed 100 --remove 30). Singles stall; a box-to-line lock on digit 3 makes progress, then the fallback guesses.
+6
+. . 3 . . .
+2 . . 1 . .
+. . . . . 6
+. . . 5 2 .
+. . 6 . . .
+5 4 . . 6 .

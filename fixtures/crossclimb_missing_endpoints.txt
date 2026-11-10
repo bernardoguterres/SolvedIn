@@ -1,0 +1,10 @@
+# 4-letter Crossclimb puzzle with missing start and end endpoints and clue candidates
+WORD_LENGTH: 4
+START: ?
+START_CANDIDATES: COLD BOLD
+RUNGS:
+CARD
+WARD
+CORD
+END: ?
+END_CANDIDATES: WARN WARM

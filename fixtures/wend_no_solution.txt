@@ -1,0 +1,7 @@
+# Unsolvable Wend puzzle: no legal dictionary words can be formed
+3 3
+GRID
+Z X Q
+J K X
+Q Z J
+LENGTHS: 3 3 3

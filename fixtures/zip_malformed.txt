@@ -1,0 +1,6 @@
+# 3x3 Zip puzzle with non-contiguous checkpoint numbers (missing checkpoint 2)
+3 3
+GRID
+1 . .
+. 3 .
+. . 4

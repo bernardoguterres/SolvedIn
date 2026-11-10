@@ -1,0 +1,7 @@
+# Malformed Crossclimb puzzle: rung word length does not match word length
+WORD_LENGTH: 4
+START: COLD
+RUNGS:
+ABOUT
+CORD
+END: WARN

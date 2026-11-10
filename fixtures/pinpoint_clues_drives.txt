@@ -1,0 +1,7 @@
+# Pinpoint clues for Computer Storage Drives
+CLUES:
+FLOPPY
+HARD
+COMPACT
+FLASH
+SOLID STATE

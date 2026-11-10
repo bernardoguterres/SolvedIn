@@ -1,0 +1,8 @@
+# 4x4 Wend puzzle exercising words with repeated letters
+4 4
+GRID
+F E E D
+D E E P
+B O O K
+W A L L
+LENGTHS: 4 4 4 4

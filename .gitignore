@@ -1,0 +1,38 @@
+# Build trees
+build/
+build_*/
+cmake-build-*/
+CMakeCache.txt
+CMakeFiles/
+Testing/
+
+# Generated output
+*.o
+*.a
+*.svg
+cli_tmp_*
+board_*.txt
+giant_queens_*.svg
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Local/agent/editor state
+.claude/
+.idea/
+.vscode/
+.DS_Store
+
+# Never commit scraped puzzle data, dictionary-derived word lists, or private notes
+fixtures/archived_linkedin/
+fixtures/external_crosscheck/
+fixtures/pinpoint_open/
+fixtures/crossclimb_clue/
+fixtures/wend_lexicon/
+viz/data/
+HANDOFF.md
+
+# Private research material (scraped puzzles, dictionary-derived data, prototypes, viewer, notes): never publish
+research/
